@@ -1,0 +1,30 @@
+.list {
+  margin: 50px 0 70px;
+}
+.list div {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+  padding: 15px;
+  border: 2px solid #eaeaea;
+  border-radius: 5px;
+}
+
+.list h5 {
+  margin-right: 10px;
+  font-size: 0.9rem;
+  width: 120px;
+}
+
+.slug {
+  width: 100%;
+  text-align: left;
+  color: #a62626;
+}
+
+.id {
+  width: 100%;
+  position: absolute;
+  right: 600px;
+  color: #a62626;
+}
